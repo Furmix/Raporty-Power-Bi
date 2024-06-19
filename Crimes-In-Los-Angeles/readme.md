@@ -1,4 +1,4 @@
-Raport ten przedstawia wizualizację danych dotyczących przestępstw w Los Angeles, opracowaną przy użyciu narzędzia Power BI.
+Raport przedstawia wizualizację danych dotyczących przestępstw w Los Angeles, opracowaną przy użyciu narzędzia Power BI.
 
 Link do Google Drive'a z plikiem .pbix danego raportu: https://drive.google.com/drive/u/2/folders/1_-jo3exUkUa1COej4OKcHVE89TqsVtvl
 
