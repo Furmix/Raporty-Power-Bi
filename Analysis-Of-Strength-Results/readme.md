@@ -10,3 +10,5 @@ Wykorzystanie customowej mapy:
 ![MuscleParts](https://github.com/Furmix/Raporty-Power-Bi/assets/92210941/7219d9cc-60d2-4262-b7e2-2c1075dd213b)
 Stworzenie kalendarza:
 ![Calendar](https://github.com/Furmix/Raporty-Power-Bi/assets/92210941/60d9065f-9022-482c-8828-49786cb2d34a)
+Schemat gwiazdy:
+![starschema](https://github.com/Furmix/Raporty-Power-Bi/assets/92210941/cf4c6c80-38ee-4c94-a0b3-1a8384dc7b40)
